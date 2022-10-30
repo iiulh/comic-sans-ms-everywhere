@@ -3,7 +3,7 @@
 // @name        Comic Sans MS everywhere
 // @description let's fucking go!
 // @author      Shaehl
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/Shaehl
 // @match       *://*/*
 // ==/UserScript==
 
