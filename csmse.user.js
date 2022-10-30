@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version     1.0
+// @version     1.0.1
 // @name        Comic Sans MS everywhere
 // @description let's fucking go!
 // @author      Shaehl
@@ -9,4 +9,4 @@
 
 const csStyle = document.createElement("style")
 csStyle.innerHTML = '*{font-family:"Comic Sans MS" !important;}'
-document.body.appendChild(csStyle)
+document.head.appendChild(csStyle)
