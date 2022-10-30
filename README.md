@@ -5,7 +5,7 @@
 ```js
 const csStyle = document.createElement("style")
 csStyle.innerHTML = '*{font-family:"Comic Sans MS" !important;}'
-document.body.appendChild(csStyle)
+document.head.appendChild(csStyle)
 ```
 
 ## Installation
