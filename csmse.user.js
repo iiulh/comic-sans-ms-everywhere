@@ -8,5 +8,5 @@
 // ==/UserScript==
 
 const csStyle = document.createElement("style")
-csStyle.innerHTML = 'body{font-family:"Comic Sans MS";}'
+csStyle.innerHTML = '*{font-family:"Comic Sans MS";}'
 document.head.appendChild(csStyle)
