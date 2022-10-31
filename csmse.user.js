@@ -1,7 +1,7 @@
 // ==UserScript==
-// @version     1.0.2
+// @version     1.0.3
 // @name        Comic Sans MS everywhere
-// @description let's fucking go!
+// @description Changes font to Comic Sans MS where it's possible.
 // @author      Shaehl
 // @namespace   https://github.com/Shaehl
 // @match       *://*/*
