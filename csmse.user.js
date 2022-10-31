@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version     1.0.1
+// @version     1.0.2
 // @name        Comic Sans MS everywhere
 // @description let's fucking go!
 // @author      Shaehl
