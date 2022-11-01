@@ -4,7 +4,7 @@
 ## Source code
 ```js
 const csStyle = document.createElement("style")
-csStyle.innerHTML = '*{font-family:"Comic Sans MS";}'
+csStyle.innerHTML = '*{font-family:"Comic Sans MS" !important;}'
 document.head.appendChild(csStyle)
 ```
 
