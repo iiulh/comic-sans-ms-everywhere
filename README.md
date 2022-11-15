@@ -3,9 +3,7 @@
 
 ## Source code
 ```js
-const csStyle = document.createElement("style")
-csStyle.innerHTML = '*{font-family:"Comic Sans MS" !important;}'
-document.head.appendChild(csStyle)
+document.head.innerHTML += `\n<style>*{font-family: "Comic Sans MS", "Comic Sans", cursive !important;}</style>`
 ```
 
 ## Installation
